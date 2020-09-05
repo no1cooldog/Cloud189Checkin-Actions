@@ -40,7 +40,7 @@ def main():
         sps = f"{netdiskBonus}M空间"
     else:
         print(f"已经签到过了，签到获得{netdiskBonus}M空间")
-        texts = "Checkin Succeed"
+        texts = "yijingqianguodaola已经签过到啦"
         sps = f"{netdiskBonus}M空间"
 #		if(SCKEY != ""):
 #            data = {
